@@ -1,4 +1,4 @@
-#Blur for Picasso (Android)
+# Blur for Picasso (Android)
 
 - Simple Transformation class to blur an image for Picasso
 - Blur time: 1-3 ms*
