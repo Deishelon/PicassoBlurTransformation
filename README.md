@@ -75,3 +75,6 @@ It is recommened to use scale between 0.1 and 1
 | Scale  | 5  | 5  | 5  |  5 | 5  |
 |  Radius | 1  | 10  | 20  | 50  | 100   |
 | Time  | 766  | 886  | 1054  |  1443 |   1581|
+
+Test device: Huawei P9
+Android OS: 7.0
